@@ -1,0 +1,7 @@
+.white-text div:not(:last-child){
+    color: white;
+
+
+}
+
+
